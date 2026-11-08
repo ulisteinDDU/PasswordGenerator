@@ -1,0 +1,21 @@
+# 构建产物
+*.exe
+*.o
+*.obj
+*.res
+
+# 便携编译器目录（fetch_compiler.sh 可能拉取到项目内）
+tools/mingw64/
+
+# 开发过程中的临时截图
+tools/*.png
+
+# 会话记录等本地杂项
+claude*.txt
+
+# superpowers 工作流内部状态
+.superpowers/
+
+# 系统文件
+Thumbs.db
+Desktop.ini

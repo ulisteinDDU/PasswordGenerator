@@ -1,0 +1,3 @@
+// 资源文件：嵌入应用清单（视觉样式 + 权限声明）
+// 1 = CREATEPROCESS_MANIFEST_RESOURCE_ID, 24 = RT_MANIFEST
+1 24 "app.manifest"

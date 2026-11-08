@@ -1,0 +1,5 @@
+// 资源文件：嵌入应用清单（视觉样式 + 权限声明）与应用图标
+// 1 = CREATEPROCESS_MANIFEST_RESOURCE_ID, 24 = RT_MANIFEST
+1 24 "app.manifest"
+// 应用图标（资源 ID 1；exe 文件图标与窗口类图标共用）
+1 ICON "app.ico"
